@@ -6,7 +6,7 @@ public class RAMA1 {
 		
 		// JESSYCA ARAUJO OLIVEIRA
 
-		System.out.println("Mensaje por pantalla paquete RAMA1");
+		System.out.println("Mensaje por pantalla paquete RAMA1 del proyecto ED");
 	}
 
 }
